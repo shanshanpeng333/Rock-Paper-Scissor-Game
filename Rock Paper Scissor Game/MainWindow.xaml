@@ -1,0 +1,54 @@
+﻿<!--Group 6, Assignment 6 Rock Paper Scissors Game-->
+    <Window x:Class="Rock_Paper_Scissor_Game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rock_Paper_Scissor_Game"
+        mc:Ignorable="d"
+        Title="Rock Paper Scissors Game" Height="450" Width="800">
+    <Grid>
+        <!--Define the background picture-->
+        <Grid.Background>
+            <ImageBrush ImageSource="game_bg.png" Opacity="0.3"></ImageBrush>
+        </Grid.Background>
+        <!--Define the rows and columns of this window-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <!--Define three borders of this window-->
+        <Border Grid.Column="0" Grid.RowSpan="2" BorderBrush="Black" BorderThickness="2" ></Border>
+        <Border Grid.Column="1" Grid.RowSpan="2" BorderBrush="Black" BorderThickness="2" ></Border>
+        <Border Grid.ColumnSpan="2" Grid.Row="3" BorderBrush="Black" BorderThickness="2" ></Border>
+        <!--Define the hint text for both input and output-->
+        <TextBlock Grid.Column="0" Grid.Row="0" FontSize="25" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center">Let's play Rock, Paper, Scissors Lizard, Spock Game. Please click one following picture.</TextBlock>
+        <Label Grid.Column="1" Grid.Row="0" Content="Computer's Choice" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <!--Define fine buttons for rock, paper, scissors, lizard and spock-->
+        <Button Grid.Column="0" Grid.Row="1" Name="BTnRock" Height="100" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="15" Click="BTnRock_Click">
+            <Image Source="Rock.bmp" Stretch="Fill"></Image>
+        </Button>
+        <Button Grid.Column="0" Grid.Row="1" Name="BTnPaper" Height="100" Width="100" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="15" Click="BTnPaper_Click">
+            <Image Source="Paper.bmp" Stretch="Fill"></Image>
+        </Button>
+        <Button Grid.Column="0" Grid.Row="1" Name="BTnScissor" Height="100" Width="100" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="15" Click="BTnScissor_Click">
+            <Image Source="Scissors.bmp" Stretch="Fill"></Image>
+        </Button>
+        <Button Grid.Column="0" Grid.Row="1" Name="BTnLizard" Height="100" Width="100" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="120,15,0,15" Click="BTnLizard_Click">
+            <Image Source="Lizard.png" Stretch="Fill"></Image>
+        </Button>
+        <Button Grid.Column="0" Grid.Row="1" Name="BTnSpock" Height="100" Width="100" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,15,120,15" Click="BTnSpock_Click">
+            <Image Source="Spock.jpg" Stretch="Fill"></Image>
+        </Button>
+        <!--Define the Computer's choice and game result-->
+        <Image Grid.Column="1" Grid.Row="1" Name="ImgComputerChoice" Height="100" Width="100" Stretch="Fill" Source="{Binding ConverterParameter=}"></Image>
+        <Label Grid.ColumnSpan="2" Grid.Row="2" Name="LBlResult" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center" Content="{Binding DisplayResult}"></Label>
+        <!--Define a button the get the a new window to display game rules-->
+        <Button Grid.Column="1" Grid.Row="2" Name="BTnRule" Content="Get rules" FontSize="20" Height="50" Width="90" HorizontalAlignment="Right" Margin="5" Click="BTnRule_Click"></Button>
+    </Grid>
+</Window>

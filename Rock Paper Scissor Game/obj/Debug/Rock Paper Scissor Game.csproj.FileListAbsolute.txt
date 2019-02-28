@@ -1,0 +1,56 @@
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csprojAssemblyReference.cache
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\MainWindow.g.cs
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\App.g.cs
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game_MarkupCompile.cache
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game_MarkupCompile.lref
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.exe.config
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.exe
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.pdb
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\MainWindow.baml
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.g.resources
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock_Paper_Scissor_Game.Properties.Resources.resources
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csproj.GenerateResource.cache
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csproj.CoreCompileInputs.cache
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.exe
+C:\Users\psssh\Desktop\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.pdb
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.exe.config
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.exe
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.pdb
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csprojAssemblyReference.cache
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\MainWindow.g.cs
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\App.g.cs
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game_MarkupCompile.cache
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game_MarkupCompile.lref
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\MainWindow.baml
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.g.resources
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock_Paper_Scissor_Game.Properties.Resources.resources
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csproj.GenerateResource.cache
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csproj.CoreCompileInputs.cache
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.exe
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.pdb
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.exe.config
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.exe
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\bin\Debug\Rock Paper Scissor Game.pdb
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csprojAssemblyReference.cache
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\MainWindow.g.cs
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\App.g.cs
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game_MarkupCompile.cache
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game_MarkupCompile.lref
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\MainWindow.baml
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.g.resources
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock_Paper_Scissor_Game.Properties.Resources.resources
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csproj.GenerateResource.cache
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csproj.CoreCompileInputs.cache
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.exe
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.pdb
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\GameRule.g.cs
+C:\program8010\week 6\Rock Paper Scissor Game-complex\Rock Paper Scissor Game\obj\Debug\GameRule.baml
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\GameRule.g.cs
+C:\program8010\week 6\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\GameRule.baml
+C:\program8010 C# WPF\week 6 hospital\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.csprojAssemblyReference.cache
+C:\program8010 C# WPF\week 6 hospital\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\GameRule.g.cs
+C:\program8010 C# WPF\week 6 hospital\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\App.g.cs
+C:\program8010 C# WPF\week 6 hospital\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game_MarkupCompile.cache
+C:\program8010 C# WPF\week 6 hospital\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game_MarkupCompile.lref
+C:\program8010 C# WPF\week 6 hospital\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.exe
+C:\program8010 C# WPF\week 6 hospital\Rock Paper Scissor Game\Rock Paper Scissor Game\obj\Debug\Rock Paper Scissor Game.pdb
